@@ -1,0 +1,10 @@
+*.csv
+*.db
+*.pyc
+*.zip
+*.tar
+*.gz
+_pycache
+.vscode
+.venv
+data
